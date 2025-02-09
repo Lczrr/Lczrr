@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Lc Dev 😁
+## Bem-vindo(a) ao perfil do Lc Dev 
 
  <div>
    <a href="https://github.com/Lczrr">
